@@ -1,0 +1,16 @@
+.inline-method {
+  background-color: orange;
+  font-size: 18px;
+}
+
+h1 {
+  background-color: red;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h2 {
+  background-color: green;
+  font-size: 18px;
+}
