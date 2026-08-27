@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+div {
+  background-color: lightpink;
+  font-size: 28px;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  font-weight: light bold;
+}
+
+#number-2 {
+  font-size: 36px;
+  color: blue;
+}
+#number-4 {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: lightgreen;
+}
+
+p {
+  font-size: 32px;
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
