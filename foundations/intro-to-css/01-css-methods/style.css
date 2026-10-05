@@ -1,16 +1,16 @@
+body {
+  width: 300px;
+  margin: 0 auto;
+}
+
 p {
-  background-color: orange;
-  font-size: 19px;
+  background-color: magenta;
+  margin: 10px;
+  border: 1px solid black;
+  padding: 20px;
 }
 
-h1 {
-  background-color: red;
-  text-align: center;
-  font-size: 32px;
-  font-weight: bold;
-}
-
-h2 {
-  background-color: green;
-  font-size: 19px;
+span {
+  background-color: rgb(193, 85, 39);
+  margin: 10px;
 }
