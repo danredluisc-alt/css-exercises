@@ -8,19 +8,19 @@ body {
   font-weight: bold;
   padding: 2px;
   margin: 10px;
-  background-color: blue;
+  background-color: rgb(77, 77, 245);
 }
 
 .box-2 {
   padding: 20px;
   margin: 20px;
-  background-color: blue;
+  background-color: rgb(77, 77, 245);
 }
 
 .box-3 {
   padding: 12px;
   margin: 20px;
-  background-color: blue;
+  background-color: rgb(77, 77, 245);
   text-align: center;
 }
 
